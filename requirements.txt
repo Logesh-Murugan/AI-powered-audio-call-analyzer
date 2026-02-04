@@ -1,0 +1,23 @@
+# Core API Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+
+# Audio Processing
+librosa==0.10.1
+soundfile==0.12.1
+numpy==1.24.3
+
+# Machine Learning
+transformers==4.35.2
+torch==2.1.1
+
+# Testing
+pytest==7.4.3
+hypothesis==6.92.1
+httpx==0.25.2
+
+# Utilities
+python-multipart==0.0.6
